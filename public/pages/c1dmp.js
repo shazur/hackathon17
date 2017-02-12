@@ -1,5 +1,5 @@
 $w.onReady(function () {
-	//bla bla fdfdf
+	//sdfgfdgfdg
 });
 
 export function container1_onClick(event) {

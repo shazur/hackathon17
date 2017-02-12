@@ -1,3 +1,3 @@
 (function(){
-    //this is the last commit
+    var a = 'nothing'
 })()
